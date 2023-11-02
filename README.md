@@ -1,4 +1,4 @@
-[![MasterHead](https://64.media.tumblr.com/92f17d4d91079827ad8f27df24451911/65be532b3672d456-25/s640x960/18796c8a28e47df481da35913d7844240320053f.gifv)
+[![MasterHead](https://i.pinimg.com/originals/a7/b8/bb/a7b8bbf2fe4922e306616b41f2093af5.gif)
 <h1 align="center">Hi 👋, I'm Maya</h1>
 <h3 align="center">A software developer from the UK</h3>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIG.UDZMGnYg50yxjpH1gcVr?pid=ImgGn"
