@@ -1,6 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/a7/b8/bb/a7b8bbf2fe4922e306616b41f2093af5.gif)
 <h1 align="center">Hi 👋, I'm Maya</h1>
-<h3 align="center">A software developer from the UK</h3>
+<h3 align="center">A Junior Software Developer from the UK</h3>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIG.UDZMGnYg50yxjpH1gcVr?pid=ImgGn"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayanaise&label=Profile%20views&color=0e75b6&style=flat" alt="mayanaise" /> </p>
@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-of-maya.netlify.app/](https://portfolio-of-maya.netlify.app/)
 
-- 💬 Ask me about **my favourite drink & food.**
+- 💬 Ask me about **my favourite movie.**
 
 - 📫 How to reach me **itsmayaletsgo@gmail.com**
 
